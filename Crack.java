@@ -9,6 +9,8 @@ public class Crack {
         System.out.println("Unchecked Version");
 
         String s = "Apple";
+
+        System.out.println(s);
     }
     
 }
